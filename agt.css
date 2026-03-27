@@ -33,3 +33,7 @@ div img {
     border: 20px;
     border-radius: 20px;
 }
+div a{
+    display: block;
+    margin-top: 15px;
+}
