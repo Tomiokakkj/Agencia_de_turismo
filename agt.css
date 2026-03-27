@@ -37,3 +37,8 @@ div a{
     display: block;
     margin-top: 15px;
 }
+.lugares {
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+}
