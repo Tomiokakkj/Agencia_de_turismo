@@ -5,7 +5,7 @@ body{
 }
 header{
     display: flex;
-    background: rgb(0, 29, 79);
+    background-color: rgb(63, 7, 7);
     color: rgb(0, 0, 0);
     padding: 15px;
     justify-content: space-between;
@@ -16,11 +16,16 @@ header{
 
 
 nav a {
-    color: rgb(0, 0, 0);
+    color: black;
     text-decoration: none;
     margin-left: 15px;
 }
 
 nav a:hover {
     text-decoration: underline;
+}
+div img {
+    border-color: black;
+    border: 20px;
+    border-radius: 20px;
 }
