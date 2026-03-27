@@ -5,8 +5,8 @@ body{
 }
 header{
     display: flex;
-    background: rgba(0, 0, 0, 0);
-    color: white;
+    background: rgb(0, 29, 79);
+    color: rgb(0, 0, 0);
     padding: 15px;
     justify-content: space-between;
     align-items: center;
@@ -16,7 +16,7 @@ header{
 
 
 nav a {
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     margin-left: 15px;
 }
