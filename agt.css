@@ -4,7 +4,7 @@ body{
     text-align: center;
     align-items: center;
     align-content: center;
-
+    background:rgba(255, 255, 255, 0.669) ;
 }
 header{
     display: flex;
@@ -36,17 +36,18 @@ div img {
 div a{
     display: block;
     margin-top: 15px;
+    color:;
 }
 .lugares {
     gap: 10px;
     display: flex;
     justify-content: center;
 }
-
-.card a {
-    transition: 0.3;
+.lugares2 {
+    gap: 10px;
+    display: flex;
+    justify-content: center;
 }
-
 .card a:hover {
     transform: scale(1.1);
 }
