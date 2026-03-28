@@ -42,3 +42,11 @@ div a{
     display: flex;
     justify-content: center;
 }
+
+.card a {
+    transition: 0.3;
+}
+
+.card a:hover {
+    transform: scale(1.1);
+}
